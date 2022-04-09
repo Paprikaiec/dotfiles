@@ -181,3 +181,8 @@
 [init]
 
 	defaultBranch = main
+[user]
+	email = Paprikaiec@gmail.com
+	name = Paprikaiec
+[http]
+	proxy = socks5://127.0.0.1:1080
